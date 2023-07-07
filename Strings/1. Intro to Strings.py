@@ -1,4 +1,4 @@
-""" String Example 1 
+""" 1. Intro to Strings
 
 	Q's: 
 		What are strings? 

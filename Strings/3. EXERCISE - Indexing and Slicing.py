@@ -1,4 +1,4 @@
-""" String Exercise 1
+""" 3. EXERCISE - Indexing and Slicing
 
 Your boss, Mr. Cornelius Philips, has recently received a strange letter in the mail.
 Although it reads normally, he can't help but feel something is off! After careful study, 

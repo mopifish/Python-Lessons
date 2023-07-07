@@ -1,4 +1,4 @@
-""" String Example 2 
+""" 2. Indexing and Slicing
 
 	Q's: 
 		How are strings lists?
